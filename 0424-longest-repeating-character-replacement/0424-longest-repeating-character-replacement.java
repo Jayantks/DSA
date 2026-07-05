@@ -1,21 +1,31 @@
 class Solution {
+    public int find(int[] a) {
+        int maxc = -1;
+        for (int i = 0; i < 256; i++)
+            maxc = Math.max(maxc, a[i]);
+        return maxc;
+    }
+
     public int characterReplacement(String s, int k) {
         int n = s.length();
-        int low = 0, maxFreq = 0, res = 0;
-        Map<Character, Integer> freq = new HashMap<>();
+        int[] f = new int[256];
+        int low = 0, high = 0, res = Integer.MIN_VALUE;
 
-        for (int high = 0; high < n; high++) {
-            char c = s.charAt(high);
-            freq.put(c, freq.getOrDefault(c, 0) + 1);
-            maxFreq = Math.max(maxFreq, freq.get(c));
+        for (high = 0; high < n; high++) {
+            f[s.charAt(high)]++;
+            int maxcnt = find(f);
+            int len = high - low + 1;
+            int diff = len - maxcnt;
 
-            // window invalid if replacements needed > k
-            while ((high - low + 1) - maxFreq > k) {
-                char leftChar = s.charAt(low);
-                freq.put(leftChar, freq.get(leftChar) - 1);
+            while (diff > k) {
+                f[s.charAt(low)]--;
                 low++;
+                maxcnt = find(f);
+                len = high - low + 1;
+                diff = len - maxcnt;
             }
-            res = Math.max(res, high - low + 1);
+            len = high - low + 1;
+            res = Math.max(res, len);
         }
         return res;
     }
