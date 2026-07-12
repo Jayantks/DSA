@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Jayantks/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/Jayantks/DSA/tree/master/0904-fruit-into-baskets) |
 | [1288-remove-covered-intervals](https://github.com/Jayantks/DSA/tree/master/1288-remove-covered-intervals) |
+| [1929-concatenation-of-array](https://github.com/Jayantks/DSA/tree/master/1929-concatenation-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jayantks/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jayantks/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jayantks/DSA/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Jayantks/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
