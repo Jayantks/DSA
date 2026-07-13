@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayantks/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Jayantks/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Jayantks/DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Jayantks/DSA/tree/master/0904-fruit-into-baskets) |
 | [1288-remove-covered-intervals](https://github.com/Jayantks/DSA/tree/master/1288-remove-covered-intervals) |
 | [1470-shuffle-the-array](https://github.com/Jayantks/DSA/tree/master/1470-shuffle-the-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Jayantks/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jayantks/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jayantks/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0645-set-mismatch](https://github.com/Jayantks/DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Jayantks/DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jayantks/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jayantks/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Jayantks/DSA/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Jayantks/DSA/tree/master/1288-remove-covered-intervals) |
 ## Math
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jayantks/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Jayantks/DSA/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
