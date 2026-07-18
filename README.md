@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Jayantks/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayantks/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Jayantks/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jayantks/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Jayantks/DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Jayantks/DSA/tree/master/0904-fruit-into-baskets) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Jayantks/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Jayantks/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jayantks/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jayantks/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jayantks/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Jayantks/DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Jayantks/DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jayantks/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
