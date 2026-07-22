@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jayantks/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Jayantks/DSA/tree/master/0076-minimum-window-substring) |
+| [0344-reverse-string](https://github.com/Jayantks/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jayantks/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jayantks/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jayantks/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Jayantks/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jayantks/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Jayantks/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/Jayantks/DSA/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Jayantks/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
