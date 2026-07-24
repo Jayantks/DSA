@@ -1,8 +1,9 @@
-import java.util.ArrayDeque;
-import java.util.Deque;
+
+import java.util.Stack;
+
 class Solution {
     public String removeDuplicates(String s) {
-        Deque<Character> st = new ArrayDeque<>();
+        Stack<Character> st = new Stack<>();
 
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
