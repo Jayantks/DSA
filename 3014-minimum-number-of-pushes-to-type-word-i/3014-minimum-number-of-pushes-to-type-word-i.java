@@ -1,17 +1,9 @@
-public class Solution {
+class Solution {
     public int minimumPushes(String word) {
-        int[] mp = new int[26];
-
-        for (char ch : word.toCharArray()) {
-            mp[ch - 'a'] = 1;
-        }
-
-        Integer[] mpInteger = Arrays.stream(mp).boxed().toArray(Integer[]::new);
-        Arrays.sort(mpInteger, Comparator.reverseOrder());
-
-        int ans = 0;
-        for (int i = 0; i < 26; i++) {
-            ans += mpInteger[i] * ((i / 8) + 1);
+        int len=word.length();
+        int ans=0;
+        for(int i=0;i<len;i++){
+            ans=ans+(i/8)+1;
         }
         return ans;
     }
