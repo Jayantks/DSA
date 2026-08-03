@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Jayantks/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayantks/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Jayantks/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Jayantks/DSA/tree/master/1025-divisor-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jayantks/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jayantks/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jayantks/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Jayantks/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jayantks/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Jayantks/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/Jayantks/DSA/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Jayantks/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Jayantks/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Combinatorics
@@ -229,4 +231,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jayantks/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jayantks/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Jayantks/DSA/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Jayantks/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
