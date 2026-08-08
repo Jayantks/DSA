@@ -270,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Jayantks/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Jayantks/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
